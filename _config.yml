@@ -3,6 +3,8 @@ author: DangerCam
 email: cam@danger.com
 description: > # this means to ignore newlines until "baseurl:"
   The World Wide Web can be a pretty scary place. Peruse this site for helpful tips and tricks to avoid common pitfalls. 
+  
+theme: minima
 
 # social links
 twitter_username: cameronstew # DO NOT include the @ character, or else the build will fail!
