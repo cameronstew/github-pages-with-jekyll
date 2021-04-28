@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to THE DANGER ZONE"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello there! Welcome to my **Page** _(fancy, eh?)_
+
+On this page, we're going to talk about hazardous things to avoid. 
+
